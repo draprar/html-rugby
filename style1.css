@@ -1,0 +1,18 @@
+body { margin:114px 0 0 0; line-height:16px; font-family: Tahoma, Arial; background: url(images/logo.jpg) no-repeat center top #000; color:#000; font-size:12px;}
+a { color:#696969;}
+a:hover { text-decoration:none;}
+#header {}
+#logo { padding:20px 0 23px 0;color:#fff; text-align:center;}
+#menu {color:#fff; text-align:center; margin-bottom:3px;}
+#menu ul {text-align:center;list-style:none; padding:0;}
+#menu ul li {display:inline}
+#menu ul a { font-weight:bold; font-size:12px; text-decoration:none; color:#fff; background-color:#000; padding:0 3px 2px 3px;}
+#main {background: url(images/body_all_bckg.jpg) repeat-y top center;}
+#content {width:970px; margin:0 auto;}
+#text { width:970px;}
+#text p { margin:7px 0 7px 0;}
+
+#footer {background:url(images/footer_bckg.jpg) no-repeat top center; height:32px; clear:both; width:992px; margin:0 auto; }
+#footer1 { float:centre; padding:16px 0 0 16px; color:#000; font-size:12px;}
+#footer1 a { color:#000;}
+
