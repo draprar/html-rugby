@@ -5,7 +5,7 @@
 
 ## General info
 This project was uploaded in the 2010 version.
-I promise to take care of it someday :)
+Live on: https://draprar.github.io/html-rugby/
 	
 ## Technologies
 Project is created with:
